@@ -14,4 +14,16 @@
 
 ## 로컬 저장소에 저장하기
 ![image](/assets/clone-repository.PNG)
+![image](/assets/clone-repository1.PNG)
+![image](/assets/clone-repository2.PNG)
+![image](/assets/clone-repository3.PNG)
+![image](/assets/clone-repository4.PNG)
+
+## 변경 사항 원격 저장소에 푸쉬하기
+![image](/assets/push-repository.PNG)
+![image](/assets/push-repository1.PNG)
+![image](/assets/push-repository2.PNG)
+![image](/assets/push-repository3.PNG)
+![image](/assets/push-repository4.PNG)
+![image](/assets/push-repository5.PNG)
 
